@@ -2,7 +2,7 @@
   "name": "re-store",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alexanderkruk.github.io/pro-react-redux2",
+  "homepage": "https://alexanderkruk.github.io/re-store",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "prop-types": "^15.7.2",
