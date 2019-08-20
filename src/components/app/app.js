@@ -1,7 +1,7 @@
 import React from 'react';
 import { HomePage, CartPage } from '../pages';
 import './app.css';
-import { HashRouter, Route, Switch, Redirect } from 'react-router-dom';
+import { HashRouter, Route, Switch } from 'react-router-dom';
 import ShopHeader from '../shop-header';
 
 const App = () => {
